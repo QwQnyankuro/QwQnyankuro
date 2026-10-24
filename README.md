@@ -62,10 +62,3 @@ Hi! I go by Kory Anders or Koriand'r inspired by Starfire in Teen Titans. I am L
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=QwQnyankuro&theme=rose&background=ffffff&border=f3a4be&stroke=f3a4be&ring=73daca&fire=73daca&currStreakLabel=f3a4be" width="80%" alt="GitHub Streak Stats" />
 
 </div>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QwQnyankuro&theme=rose&background=ffffff&border=f3a4be&stroke=f3a4be&ring=73daca&fire=73daca&currStreakLabel=f3a4be" width="80%" alt="GitHub Streak Stats" />
-
-</div>
-
