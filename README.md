@@ -26,10 +26,9 @@
       <img src="https://github.com/user-attachments/assets/6047b8b1-c846-4ebd-aa33-6b3b00f3626d" width="160" alt="Butterflies" />
     </td>
     <td width="65%" align="center" valign="middle">
-      <h2>
-        <font color="#f3a4be">Connect with me!</font>
+      <h2 style="color:#f3a4be; margin:0 0 12px 0;">
+        Connect with me!
       </h2>
-      <br/>
       <a href="https://instagram.com/calico.rei">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="42" alt="Instagram" />
       </a>
