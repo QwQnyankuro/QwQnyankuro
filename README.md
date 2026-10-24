@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Image -->
-  <img src="YOUR_HEADER_IMAGE_URL_HERE" width="100%" alt="Header Banner" />
+  <img src="HBVC15BbcAABjuJ.jpg" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
