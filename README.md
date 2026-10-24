@@ -1,4 +1,3 @@
-<img width="1200" height="1222" alt="eba2e69b43e053ebb037e05c91240a0c" src="https://github.com/user-attachments/assets/aa175019-45db-43ea-b44a-06003515fe8c" />
 <table border="0">
   <tr>
     <td width="55%" valign="top">
@@ -25,7 +24,7 @@
     <td width="40%" align="center" valign="middle">
       
       <!-- Left Butterflies Image -->
-      <img src="https://github.com/user-attachments/assets/6047b8b1-c846-4ebd-aa33-6b3b00f3626d"" width="180" alt="Butterflies" />
+      <img src="https://github.com/user-attachments/assets/6047b8b1-c846-4ebd-aa33-6b3b00f3626d" width="180" alt="Butterflies" />
 
     </td>
     <td width="60%" align="center" valign="middle">
@@ -43,5 +42,26 @@
       </a>
       &nbsp;&nbsp;
       <a href="https://x.com/qOvrkL">
-        <img src="<img width="1065" height="634" alt="44561850d3385f440a60d8348d7aca82" src="https://github.com/user-attachments/assets/93541dbc-77f9-4859-89c9-9e2ddb499a78" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/x/default.svg" width="45" alt="X" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:k2mtous@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" alt="Gmail" />
+      </a>
+
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<div align="center">
+
+  ## <font color="#f3a4be">GitHub Stats</font>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QwQnyankuro&theme=rose&background=ffffff&border=f3a4be&stroke=f3a4be&ring=73daca&fire=73daca&currStreakLabel=f3a4be" width="80%" alt="GitHub Streak Stats" />
+
+</div>
 
