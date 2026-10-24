@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Image -->
-  <img src="<img width="4096" height="1740" alt="HVBC15BbcAABjuJ" src="https://github.com/user-attachments/assets/b5901803-c2e7-48fc-ae4a-30d86d1fa92c" />" width="100%" alt="Header Banner" />
+  <img src="<width="4096" height="1740" alt="HVBC15BbcAABjuJ" src="https://github.com/user-attachments/assets/b5901803-c2e7-48fc-ae4a-30d86d1fa92c" />" 
 
   <br/><br/>
 
